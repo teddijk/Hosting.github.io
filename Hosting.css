@@ -1,9 +1,10 @@
+
 body {
-    background-color: blue;
+    background-color: lightgrey;
 }
 
 h1 {
-    color: red;
+    color: black;
     text-align: center;
 }
 h3 {
@@ -11,3 +12,9 @@ h3 {
 	text-align: center;
 }
 
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 100px;
+}
